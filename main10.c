@@ -17,3 +17,6 @@ int main ()
      printf ("La suma de todos los numeros es de: %d  y  el promedio es: %f",suma,promedio);
     return 0;
 }
+
+
+".";
